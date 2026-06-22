@@ -1,0 +1,10 @@
+tf_gpu/
+__pycache__/
+*.pyc
+
+.env
+
+face_models/*.h5
+
+fl_log.txt
+training_log.txt
