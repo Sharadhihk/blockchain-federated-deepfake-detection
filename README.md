@@ -119,5 +119,7 @@ This provides an immutable and verifiable record of every prediction.
 ## Authors
 
 Developed as a B.Tech Capstone Project on Deepfake Detection using Federated Learning and Blockchain.
+
 Vishruth H R
+
 Sharadhi H K
