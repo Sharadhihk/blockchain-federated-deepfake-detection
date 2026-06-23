@@ -26,14 +26,41 @@ The system uses RetinaFace for face detection, Xception CNN for feature extracti
 ## System Workflow
 
 Input Video
+
+↓
+
 Face Detection (RetinaFace)
+
+↓
+
 Frame Preprocessing
+
+↓
+
 Xception CNN
+
+↓
+
 LSTM
+
+↓
+
 Deepfake Classification
+
+↓
+
 Federated Learning (FedAvg)
+
+↓
+
 SHA256 Hash Generation
+
+↓
+
 Ethereum Blockchain
+
+↓
+
 Verification
 
 ---
@@ -119,7 +146,3 @@ This provides an immutable and verifiable record of every prediction.
 ## Authors
 
 Developed as a B.Tech Capstone Project on Deepfake Detection using Federated Learning and Blockchain.
-
-Vishruth H R
-
-Sharadhi H K
